@@ -1,0 +1,1 @@
+type NullableString = string | null;
